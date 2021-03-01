@@ -1,0 +1,5 @@
+C:\Users\EQUIPO\Documents\SharpDevelop Projects\Programación evaluación 2\Programación evaluación 2\bin\Debug\Programación evaluación 2.exe
+C:\Users\EQUIPO\Documents\SharpDevelop Projects\Programación evaluación 2\Programación evaluación 2\bin\Debug\Programación evaluación 2.pdb
+C:\Users\EQUIPO\Documents\SharpDevelop Projects\Programación evaluación 2\Programación evaluación 2\obj\Debug\Programación evaluación 2.csprojResolveAssemblyReference.cache
+C:\Users\EQUIPO\Documents\SharpDevelop Projects\Programación evaluación 2\Programación evaluación 2\obj\Debug\Programación evaluación 2.exe
+C:\Users\EQUIPO\Documents\SharpDevelop Projects\Programación evaluación 2\Programación evaluación 2\obj\Debug\Programación evaluación 2.pdb
